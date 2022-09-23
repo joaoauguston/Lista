@@ -1,4 +1,3 @@
-//João Augusto Nogueira de Sousa 514670
 
 #include <stdio.h>
 #include <stdlib.h>
